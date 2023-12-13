@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hermandades>
+  <hermandad>
+    <id>893709</id>
+    <nombre>Hermandad del Gran Poder de Sevilla</nombre>
+    <fechaFundacion>1620-10-12</fechaFundacion>
+    <ubicacionSede>P/San Lorenzo</ubicacionSede>
+    <numeroCuenta>IBN123456789445555443455</numeroCuenta>
+  </hermandad>
+  <hermanos>
+    <hermano>
+      <dni>26596007A</dni>
+      <nombre>Jorgee</nombre>
+      <apellidos>Lopez Bravo</apellidos>
+      <edad>19</edad>
+      <dadoAlta>2023-12-13</dadoAlta>
+      <domicilio>C/ 28 febrero</domicilio>
+      <correo>jorge@gmail.com</correo>
+      <telefono>666777888</telefono>
+      <codigo>HGPS-8941146579cec4bf28a8.11222570</codigo>
+      <cuota>0</cuota>
+    </hermano>
+  </hermanos>
+</hermandades>

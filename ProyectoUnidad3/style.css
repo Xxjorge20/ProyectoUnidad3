@@ -1,0 +1,92 @@
+:root {
+    --color-fondo: rgb(125, 84, 131);
+    --color-intermedio: #2b0032;
+    --color-cambiar: #451f5f;
+    --color-blanco: #ffffff;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: var(--color-blanco);  
+    color: var(--color-intermedio); 
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    background-color: var(--color-fondo);
+}
+
+#formularios {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid var(--color-intermedio); 
+    border-radius: 10px;
+    background-color: #f2ebf5;
+}
+
+h1, h2 {
+    color: var(--color-intermedio); 
+}
+
+#nombreHermandad {
+    text-shadow: 3px 3px 2px #000;
+}
+
+input[type="text"], input[type="date"], input[type="number"], select {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+input[type="submit"], input[type="button"] {
+    background-color: var(--color-intermedio);
+    color: var(--color-blanco); 
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover, input[type="button"]:hover {
+    background-color: var(--color-cambiar); 
+}
+
+button {
+    background-color: var(--color-intermedio);
+    color: var(--color-blanco);
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px; 
+}
+
+button:hover {
+    background-color: var(--color-cambiar);  
+}
+
+label {
+    margin-top: 10px;
+    display: block;
+    font-weight: bold;
+}
+
+#formularioPatrimonio label[for="tipoInmueble"] {
+    margin-top: 20px;
+}
+
+#formularioPatrimonio select {
+    margin-bottom: 20px;
+}
+
+.button-container form {
+    display: inline-block;
+    margin-right: 10px; 
+}
+
+#gif {
+    margin: 0 auto;
+    box-shadow: 10px 10px 14px 2px rgba(0,0,0,0.47);
+}

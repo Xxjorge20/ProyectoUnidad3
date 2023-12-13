@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patrimonios>
+  <Patrimonios-Inmateriales>
+    <Inmaterial>
+      <id>HGPS-2873096579cf93ae6278.75563314</id>
+      <nombre>QWEQW</nombre>
+      <descripcion>QWEQW</descripcion>
+      <fechaAdquisicion>2000-12-12</fechaAdquisicion>
+      <fotos>foto3.jpg,foto4.jpg</fotos>
+      <ubicacion>aDSAdasd</ubicacion>
+      <tipoInmueble>Casa</tipoInmueble>
+      <valorCultural>aDASD</valorCultural>
+      <reconocimientos>ASDASD</reconocimientos>
+      <uso>ASDASD</uso>
+    </Inmaterial>
+  </Patrimonios-Inmateriales>
+  <Patrimonio-Material/>
+</Patrimonios>
